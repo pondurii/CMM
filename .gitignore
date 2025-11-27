@@ -1,0 +1,25 @@
+
+# Gradle
+.gradle/
+build/
+!build/generated-sources/
+!build/generated-resources/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Local properties
+local.properties
+
+# Kover
+build/kover/
+
+# Other
+/captures/
+.nb-gradle/
+out/
+*.klib
